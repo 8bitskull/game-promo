@@ -1,0 +1,9 @@
+{
+  "disable": false,
+  "use_default": false,
+  "target_URL": "https://store.steampowered.com/app/3199360/Skull_Horde/?utm_source=boreblasters&utm_medium=main_menu",
+  "image_URL": "https://8bitskull.com/8bitskull_ingame_promo/boreblasters/main_menu_skull_horde_wishlist.png",
+  "load_in_steam_overlay": true,
+  "animate_scale": true,
+  "base_scale": 0.4
+}
