@@ -1,6 +1,6 @@
 {
   "disable": false,
-  "use_default": true,
+  "use_default": false,
   "target_URL": "https://store.steampowered.com/app/3199360/Skull_Horde/?utm_source=skullhorde&utm_medium=main_menu",
   "image_URL": "https://8bitskull.github.io/game-promo/skullhorde/main_menu_skull_horde_wishlist.png",
   "load_in_steam_overlay": true,
