@@ -1,0 +1,12 @@
+{
+  "test662151612": [
+    {
+      "target_URL": "https://store.steampowered.com/app/3199360/Skull_Horde/?utm_source=boreblasters&utm_medium=promo_popup",
+      "image_URL": "https://8bitskull.github.io/game-promo/voidscrappers/skullhorde_wishlist.png",
+      "base_scale": 0.5,
+      "load_in_steam_overlay": true,
+      "launch_limit": 3,
+      "bg_color": "#161517"
+    }
+  ]
+}
